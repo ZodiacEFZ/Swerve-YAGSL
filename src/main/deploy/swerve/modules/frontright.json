@@ -1,0 +1,27 @@
+{
+  "location": {
+    "front": 22.5,
+    "left": -22.5
+  },
+  "absoluteEncoderOffset": 1908,
+  "drive": {
+    "type": "falcon",
+    "id": 8,
+    "canbus": "rio"
+  },
+  "angle": {
+    "type": "falcon",
+    "id": 4,
+    "canbus": "rio"
+  },
+  "encoder": {
+    "type": "ctre_mag",
+    "id": 12,
+    "canbus": "rio"
+  },
+  "inverted": {
+    "drive": true,
+    "angle": true
+  },
+  "absoluteEncoderInverted": false
+}
