@@ -1,0 +1,27 @@
+{
+  "location": {
+    "front": 12,
+    "left": -12
+  },
+  "absoluteEncoderOffset": -1834 ,
+  "drive": {
+    "type": "falcon",
+    "id": 8,
+    "canbus": null
+  },
+  "angle": {
+    "type": "falcon",
+    "id": 4,
+    "canbus": null
+  },
+  "encoder": {
+    "type": "srxmag_standalone",
+    "id": 12,
+    "canbus": null
+  },
+  "inverted": {
+    "drive": true,
+    "angle": false
+  },
+  "absoluteEncoderInverted": false
+}
